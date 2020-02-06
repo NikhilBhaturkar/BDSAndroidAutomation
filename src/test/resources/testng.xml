@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="BDS Regression suite" verbose="4">
+	<test name="BDS Regression suite">
+		<classes>
+			<!-- <class name="com.testng.framework.testscripts.HomePageTest" /> -->
+			<class name="com.testng.framework.testscripts.LoginPageTest" />
+			<class name="com.testng.framework.testscripts.CoverPageTest" />
+		</classes>
+	</test>
+</suite>
